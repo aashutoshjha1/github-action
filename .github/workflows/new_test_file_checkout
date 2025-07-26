@@ -1,5 +1,5 @@
  
-name: my second workflow
+name: my second workflow to check
 on: push
 jobs:
   first_jobs: 
